@@ -1,0 +1,8 @@
+{
+    "address": "10.0.0.70",
+    "port": "12347",
+    "signal_split_char": ",",
+    "krpc_address": "localhost",
+    "rpc_port": "50000",
+    "stream_port": "50001"
+}
